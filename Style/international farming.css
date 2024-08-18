@@ -1,0 +1,49 @@
+.home {
+    /* display: flex;
+    justify-content: space-around; */
+    background-color: green;
+    color: slateblue;
+    width: 100vw;
+    padding: 15px;
+    /* position:fixed; */
+  
+  }
+  
+  .link {
+    margin-top: -30px;
+    margin-left: 850px;
+    
+  }
+  .nav-keys{
+  padding: 5px; 
+  color: aliceblue;
+  text-decoration: none;
+  }
+  .footer {
+    background-color: green;
+    color: white;
+    display: flex;
+    font-size: 8px;
+    padding: 20px;
+    justify-content: space-evenly;
+    height: 300px;
+  }
+  
+  .freash {
+    padding: 20;
+  }
+  
+  .pro2 {
+    padding: 20px;
+  }
+  
+  .link1 {
+    padding: 20px;
+  }
+  .size1{
+    font-size: medium;
+  }
+  .size2{
+    font-size: small; 
+    margin: 15px;
+  }

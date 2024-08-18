@@ -1,0 +1,37 @@
+.main{
+    height: 500px;
+    width: 500px;
+    /* border: 1px solid black; */
+    text-align: center;
+    background-color: rgb(151, 232, 151);
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 40px;
+    border-radius: 30px;
+}
+.img{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    justify-content: space-around;
+    margin: 20px;
+    border-radius: 10px;
+}
+.posit{
+    margin: 20px;
+    height: 30px;
+    width: 200px;
+}
+.button{
+    height: 40px;
+    width: 80px;
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    margin: 20px;
+    color: black;
+    background-color: rgb(176, 231, 184);
+}
+.button:hover {
+    transform: scale(0.9);
+    /* background-color: green; */
+  }
